@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "限界突破×サバイバー",
+  "base_artist": "氷川きよし",
+  "createdAt": "2026-01-09T06:51:24.536210Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー",
+      "artist": "Kiyoshi Hikawa",
+      "has_synced": true,
+      "path": "select/01_限界突破×サバイバー_Kiyoshi_Hikawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー",
+      "artist": "氷川きよし",
+      "has_synced": true,
+      "path": "select/02_限界突破×サバイバー_氷川きよし.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー (予告)",
+      "artist": "ドラゴンボール超BGM",
+      "has_synced": false,
+      "path": "select/03_限界突破×サバイバー_(予告)_ドラゴンボール超BGM.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー（予告）",
+      "artist": "ドラゴンボール超BGM",
+      "has_synced": false,
+      "path": "select/04_限界突破×サバイバー(予告)_ドラゴンボール超BGM.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー",
+      "artist": "Kiyoshi Hikawa",
+      "has_synced": true,
+      "path": "select/05_限界突破×サバイバー_Kiyoshi_Hikawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー",
+      "artist": "氷川きよし",
+      "has_synced": true,
+      "path": "select/06_限界突破×サバイバー_氷川きよし.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー - Limit Break x Survivor",
+      "artist": "Kiyoshi Hikawa",
+      "has_synced": true,
+      "path": "select/07_限界突破×サバイバー_-_Limit_Break_x_Survivor_Kiyoshi_Hikawa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー",
+      "artist": "Kiyoshi Hikawa - Topic",
+      "has_synced": true,
+      "path": "select/08_限界突破×サバイバー_Kiyoshi_Hikawa_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー - 「ドラゴンボール超」オープニング・テーマ - TVサイズ",
+      "artist": "Kiyoshi Hikawa",
+      "has_synced": true,
+      "path": "select/09_限界突破×サバイバー_-_「ドラゴンボール超」オープニング・テーマ_-_TVサイズ_Kiyoshi_Hikawa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "限界突破×サバイバー",
+      "artist": "冰川清志 (氷川きよし)",
+      "has_synced": true,
+      "path": "select/10_限界突破×サバイバー_冰川清志_(氷川きよし).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "限界突破×サバイバー",
+      "artist": "氷川 きよし",
+      "has_synced": false,
+      "path": "select/pl_01_限界突破×サバイバー_氷川_きよし.txt"
+    }
+  ]
+}
